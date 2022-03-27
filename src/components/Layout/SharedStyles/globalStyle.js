@@ -49,7 +49,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     .lightTheme {
-        --primaryColor: #0067FA;
+        --primaryColor: ##20C997;
         --headingsColor: #4D4D4D;
         --baseTextColor:#6E7581;
         --dividerColor: #E2E2E2;
@@ -64,7 +64,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     .darkTheme {
-        --primaryColor: #5995EA;
+        --primaryColor: #20C997;
         --headingsColor: #EEEEEE;
         --baseTextColor: #AAAAAA;
         --dividerColor: #242A31;
