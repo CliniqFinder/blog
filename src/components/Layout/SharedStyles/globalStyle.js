@@ -49,7 +49,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     .lightTheme {
-        --primaryColor: ##20C997;
+        --primaryColor: #20C997;
         --headingsColor: #4D4D4D;
         --baseTextColor:#6E7581;
         --dividerColor: #E2E2E2;
